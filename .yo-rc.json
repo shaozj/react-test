@@ -1,0 +1,9 @@
+{
+  "generator-react-multipage": {
+    "appName": "react-test",
+    "style": "less",
+    "cssmodules": true,
+    "postcss": true,
+    "generatedWithVersion": 0
+  }
+}
